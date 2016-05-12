@@ -7,6 +7,7 @@
 
 
 Math Tetris is a javaScript game using canvas, based loosely off of the classic arcade game Tetris. A math problem displays at the top, and you have to solve the problem. In order to input your answer (and make blocks disappear), you click the blocks with the digits, and if you select the solution the blocks will disappear.   
+
 ![gameplay](https://github.com/jamnjon/MathTetris/blob/master/pics/demoProblem.png)
 
 ## Implementation
