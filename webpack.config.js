@@ -1,7 +1,7 @@
 module.exports = {
-  entry: "./lib/math_tetris.js",
+  entry: "./li/math_tetris.js",
   output: {
-  	filename: "./lib/bundle.js"
+  	filename: "./li/bundle.js"
   },
   devtool: 'source-map',
 };
