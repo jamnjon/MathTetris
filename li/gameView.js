@@ -1,5 +1,6 @@
 
 var GameView = function (game, ctx) {
+  console.log('test');
   this.ctx = ctx;
   this.game = game;
   this.incremented = true;
